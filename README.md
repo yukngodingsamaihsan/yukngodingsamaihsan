@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Muhammad Ihsanuddin and I'm a Tech Enthusiast, from Indonesian</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Ihsan and I'm a Tech Enthusiast</h2>
 
 ###
 
